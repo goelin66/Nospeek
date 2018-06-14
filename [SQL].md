@@ -4,9 +4,9 @@
 
 [1. Database Mail](http://www.google.com)
 
-![1. Database Mail](/Nospeek/6. DB-Mail/1. Database Mail.JPG)
+![1. Database Mail](/Database Mail.JPG)
 
-![1. Database Mail](https://docs.microsoft.com/zh-tw/sql/advanced-analytics/tutorials/rtsql-using-r-code-in-transact-sql-quickstart)
+![1. Database Mail](https://docs.microsoft.com/zh-tw/sql/advanced-analytics/tutorials/media/rsql-basictut-hello1code.png?view=sql-server-2017)
 
 ```sql
 select * from test
