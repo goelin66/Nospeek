@@ -2,7 +2,7 @@
 
 有幾個步驟要執行
 
-![Database Mail](/6. DB-Mail/1. Database Mail.JPG)
+![1. Database Mail](https://raw.githubusercontent.com/goelin66/Nospeek/master/6.%20DB-Mail/1.%20Database%20Mail.JPG)
 
 ```sql
 select * from test
