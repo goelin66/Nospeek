@@ -55,7 +55,8 @@
 
 **實際還是依傳輸距離來決定**
 
-[回首頁](
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#fiber)
+
 # 2. 光模塊要怎選用?
 
 選用前要先知道現**場使用的光纖類型是 單模 還是 多模**
