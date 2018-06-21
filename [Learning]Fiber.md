@@ -20,7 +20,7 @@
 
   [3. 100M是包含10/100內還是100/1000內?](https://github.com/goelin66/Nospeek/new/master#3-100m%E6%98%AF%E5%8C%85%E5%90%AB10100%E5%85%A7%E9%82%84%E6%98%AF1001000%E5%85%A7)
   
-  [4. 總結](https://github.com/goelin66/Nospeek/new/master#3-100m%E6%98%AF%E5%8C%85%E5%90%AB10100%E5%85%A7%E9%82%84%E6%98%AF1001000%E5%85%A7)
+  [4. 接頭介紹](https://github.com/goelin66/Nospeek/new/master#3-100m%E6%98%AF%E5%8C%85%E5%90%AB10100%E5%85%A7%E9%82%84%E6%98%AF1001000%E5%85%A7)
 
 基於一直被問又答不出來才決定去爬文。
 
@@ -90,8 +90,8 @@ GBic的樣子
 
 接著光模塊還有細分TX、FX、SX、LX、ZX
 
-Ethernet Type | Rate | Transmission Medium | Medium Thpe | Transmission Distance
------------- | ------------ | -------------
+Ethernet Type | Transmission Medium | Medium Thpe | Transmission Distance
+------------ | ------------ | ------------- | -------------
 100Base-Tx | Two Pairs | Category 5 | 100m
 100Base-FX | Multi-Mode Fiber | 62.5μm | 400m(half duplex)
 100Base-FX | Single-Mode Fiber | 9μm | 10km
@@ -99,6 +99,15 @@ Ethernet Type | Rate | Transmission Medium | Medium Thpe | Transmission Distance
 1000Base-LX(1310nm laser) | Multi-Mode Fiber| 62.5μm  | 550m
 1000Base-LX(1310nm laser) | Single-Mode Fiber| 9μm | 10km
 1000Base-ZX(1550nm laser) | Single-Mode Fiber| 9μm  | 70km
+
+
+那麼選用的光模塊需取決於
+1. 單模 還是 多模
+2. 選用的傳輸速率
+3. 現場的傳輸距離
+
+基於以上條件後選擇你要的光模塊
+
 
 # 3. 100M是包含10/100內還是100/1000內?
 
@@ -131,5 +140,27 @@ L2網管型高速乙太網路交換器，24端口SFP 100M + 2端口Combo SFP-TP 
 
 我們常配合的Zyxel也有賣
 
+[連結](ftp://ftp.zyxel.com/SFP-100FX-2/datasheet/SFP-100FX-2_1.pdf)
 
-# 4. 總結
+
+# 4. 接頭的介紹
+
+最後來介紹接頭
+
+知道光模塊怎選用後
+
+再來就是跳線接頭了
+
+首先去看光纖收容盒是哪種接頭
+
+再來選用跳線的規格
+
+所以這邊要介紹常用接頭的種類
+
+1. FC
+
+2. LC
+
+3. SC
+
+
