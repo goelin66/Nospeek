@@ -111,6 +111,7 @@ Ethernet Type | Transmission Medium | Medium Thpe | Transmission Distance
 
 基於以上條件後選擇你要的光模塊
 
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#fiber)
 
 # 3. 100M是包含10/100內還是100/1000內?
 
@@ -145,6 +146,7 @@ L2網管型高速乙太網路交換器，24端口SFP 100M + 2端口Combo SFP-TP 
 
 [連結](ftp://ftp.zyxel.com/SFP-100FX-2/datasheet/SFP-100FX-2_1.pdf)
 
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#fiber)
 
 # 4. 接頭的介紹
 
@@ -169,3 +171,5 @@ L2網管型高速乙太網路交換器，24端口SFP 100M + 2端口Combo SFP-TP 
 4. ST
 ![ST](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ST_connector.jpg/100px-ST_connector.jpg)
 那碰到後就自己找接頭來用吧。
+
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#fiber)
