@@ -85,10 +85,12 @@
     > 100-Base (Fast Ethernet) 目前連光模塊都不一定買的到
     
 因此我們幾乎都會買1000-Base的MiniGBic (SFP Gbic)
-1[MiniGBic](http://www.genb2b.com/UploadFile/ComProImages/be6d9cf9-c0c8-4b03-ba9c-003a11b826a4/201783119493115fd91-da76-4f87-b13e-6025832f2c91_300.jpg)
+
+![MiniGBic](http://www.genb2b.com/UploadFile/ComProImages/be6d9cf9-c0c8-4b03-ba9c-003a11b826a4/201783119493115fd91-da76-4f87-b13e-6025832f2c91_300.jpg)
 
 那之前大家統稱的GBic是舊時代的叫法
 GBic的樣子
+
 ![GBic](http://www.feisu.com/tw/imgCache/7/7b90a309a297bd2493aa57051aa52bbd.image.550x550.jpg)
 
 接著光模塊還有細分TX、FX、SX、LX、ZX
@@ -122,6 +124,7 @@ Ethernet Type | Transmission Medium | Medium Thpe | Transmission Distance
 這是之前碰到的經驗談...
 
 L2網管型高速乙太網路交換器，24端口SFP 100M + 2端口Combo SFP-TP GbE
+
 ![pic](http://plus.webdo.com.tw/manager_admin/upload_file/419/14223794191.jpg)
 
 看到24端卡SFP 100M超爽! 價格也很便宜!
