@@ -18,7 +18,7 @@
 
   [2. 光模塊要怎選用?](https://github.com/goelin66/Nospeek/new/master#2-%E5%85%89%E6%A8%A1%E5%A1%8A%E8%A6%81%E6%80%8E%E9%81%B8%E7%94%A8)
 
-  [3. 100M是包含10/100內還是100/1000內?](https://github.com/goelin66/Nospeek/new/master#3-100m%E6%98%AF%E5%8C%85%E5%90%AB10100%E5%85%A7%E9%82%84%E6%98%AF1001000%E5%85%A7)
+  [3. 100M是包含10/100內還是100/1000內?](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#3-100m%E6%98%AF%E5%8C%85%E5%90%AB10100%E5%85%A7%E9%82%84%E6%98%AF1001000%E5%85%A7)
   
   [4. 接頭怎選用](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#4-%E6%8E%A5%E9%A0%AD%E7%9A%84%E4%BB%8B%E7%B4%B9)
 
