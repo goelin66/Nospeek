@@ -181,6 +181,8 @@ L2網管型高速乙太網路交換器，24端口SFP 100M + 2端口Combo SFP-TP 
 
 ![ST](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ST_connector.jpg/100px-ST_connector.jpg)
 
+![Guess](http://blog.okbase.net/picture/2014/03/27/A152336804-193.jpg)
+
 那碰到後就自己找接頭來用吧。
 
 [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#fiber)
