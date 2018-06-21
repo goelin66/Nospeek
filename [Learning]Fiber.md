@@ -166,13 +166,21 @@ L2網管型高速乙太網路交換器，24端口SFP 100M + 2端口Combo SFP-TP 
 所以這邊要介紹常用接頭的種類
 
 1. FC
+
 ![FC](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/FCPC_002.jpg/100px-FCPC_002.jpg)
+
 2. LC
+
 ![LC](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/LC-optical-fiber-connector-hdr-0a.jpg/100px-LC-optical-fiber-connector-hdr-0a.jpg)
+
 3. SC
+
 ![SC](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/OFC_SC.JPG/100px-OFC_SC.JPG)
+
 4. ST
+
 ![ST](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ST_connector.jpg/100px-ST_connector.jpg)
+
 那碰到後就自己找接頭來用吧。
 
 [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#fiber)
