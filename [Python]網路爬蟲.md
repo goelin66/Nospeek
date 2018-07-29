@@ -167,4 +167,52 @@ print(soup.prettify())
 
 失敗在重灌電腦了~~~
 
+安裝完成後他會要你開啟程式
+
+程式能幫你跑那些python的程式碼
+
+但安裝卻要用他的 Anconda Promt 去安裝
+
+好吧
+
+因為我測試到要透過 selenium 去開網頁時卡關了
+
+![111](https://github.com/goelin66/Nospeek/blob/master/pic/111.PNG?raw=true)
+
+乾! 才發現安裝跟編寫要用不同的東西
+
+好吧接著看...
+
+透過 selenium 去爬網頁上的資訊
+
+那要讓 selenium 能開啟你的瀏覽器
+
+就必需安裝 [瀏覽器的Driver](http://chromedriver.chromium.org/downloads)
+
+這邊教學就用chrome
+
+其它有興趣在自己找吧
+
+不然就等我開心在補
+
+```python
+from selenium import webdriver
+from bs4 import BeautifulSoup
+
+url = 'https://www.google.com.tw/search?q=python%E7%88%AC%E8%9F%B2&oq=python%E7%88%AC%E8%9F%B2&aqs=chrome..69i57j69i59l2j69i61l2j0.2543j0j7&sourceid=chrome&ie=UTF-8' # 把網址輸入
+
+
+chromedriver = "E:\Download\learning\WebDriver\chromedriver" # 輸入Driver擺放的位址
+driver = webdriver.Chrome(chromedriver) # 載入Driver
+
+driver.get(url)  # 把網址交給瀏覽器
+pageSource = driver.page_source  # 取得網頁原始碼
+soup = BeautifulSoup(pageSource, 'lxml')  # 解析器接手
+result = soup.select('#resultStats')[0].get_text()
+print('python爬蟲', result)
+
+# python爬蟲 約有 297,000 項結果 (搜尋時間：0.34 秒)
+```
+
+這樣初步要爬資料的樣子終於有出來了...
 
