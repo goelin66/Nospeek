@@ -223,5 +223,5 @@ print('python爬蟲', result)
 https://www.qa-knowhow.com/?p=3175
 https://cuiqingcai.com/1319.html
 http://beautifulsoup.readthedocs.io/zh_CN/latest/#id12
-
+https://morvanzhou.github.io/tutorials/python-basic/basic/
 說實話, 有網路真好...
