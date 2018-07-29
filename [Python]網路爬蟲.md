@@ -216,3 +216,6 @@ print('python爬蟲', result)
 
 這樣初步要爬資料的樣子終於有出來了...
 
+
+
+參考資料 : https://www.qa-knowhow.com/?p=3175
