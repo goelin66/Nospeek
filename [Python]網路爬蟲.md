@@ -216,7 +216,77 @@ print('python爬蟲', result)
 
 這樣初步要爬資料的樣子終於有出來了...
 
-下個目標是要能把MM的照片拉出來！
+
+2018/08/04
+今天想說測試一下爬蟲的功用
+
+如果不透過上面方是用瀏覽器去查也可以, 
+
+不過要知道開啟的網頁是哪種格式, json? html?
+
+好吧我也都看別人文章寫得去學著寫,
+
+那今天的內容是如何透過爬蟲來找便宜的商品！
+
+好比我想在PChome上找便宜的設備 ( 有點雞肋 )
+
+首先要先點開F12接著開始查詢pchome
+
+透過收尋商品能找 SSD
+
+![24Hpchome](https://github.com/goelin66/Nospeek/blob/master/pic/24Hpchome.PNG)
+
+就能看到他是用 request 的指令去查詢
+
+```python
+import requests # 導入requests的物件, 每次使用都要導入一次的樣子?
+from bs4 import BeautifulSoup # 因為BeautifulSoup是bs4眾多物件內的其中一個, 透過 from ... import 來選定需要的元件導入
+import json # 因為這次查詢的 Pchome24H 是 json 格式
+
+url = "https://ecshweb.pchome.com.tw/search/v3.3/all/results?q=SSD&page=1&sort=rnk/dc" # 這邊查詢SSD的第一頁
+res = requests.get(url)
+data = json.loads(res.text)
+names=[]
+prices=[]
+prices1=[]
+urls=[]
+mainurl = 'http:/24h.pchom.com.tw/prod'
+for product in data['prods'] :
+    names.append(product['name'])
+    price1 = product['price']
+    price2 = price1 < 1000
+    prices.append(price2)
+    prices1.append(product['price'])
+    url1=mainurl+product['Id']
+    urls.append(url1)
+
+num = len(data['prods'])-1
+print(num)
+
+print()
+
+#print(names[num])
+#print(product['price'])
+#print('價格<1000 :', prices[num])
+#print(urls[num])
+
+for ii in range(num, -1, -1):
+    pricess = prices[ii]
+    #print(pricess)
+    if pricess == True:
+        i = ii
+        print(names[i])
+        print(prices1[i])
+        print('價格<1000 :', prices[i])
+        print(urls[i])
+        #print(i)
+```
+
+這次參考別人家的寫法, 在改邊的。
+
+雖然沒啥屁用, 但好玩就好啦~
+
+最終目標是要能把MM的照片拉出來！
 
 
 參考資料 : 
@@ -224,6 +294,9 @@ https://www.qa-knowhow.com/?p=3175
 https://cuiqingcai.com/1319.html
 http://beautifulsoup.readthedocs.io/zh_CN/latest/#id12
 https://morvanzhou.github.io/tutorials/python-basic/basic/
+
+2018/08/04
+http://ivanjo39191.pixnet.net/blog/post/70548675-python-%E7%88%AC%E8%9F%B2%E7%B7%B4%E7%BF%92%E7%B4%80%E9%8C%842%28%E4%B8%80%29
 
 同事友情給的資料
 https://medium.com/pyladies-taiwan/從dcard網站看爬蟲入門-65105f0ddac
