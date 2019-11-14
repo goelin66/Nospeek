@@ -1,4 +1,4 @@
-```sqlcmd
+```T-SQL
 use MyDB
 go
 
