@@ -6,12 +6,12 @@
 
 懶得再去收尋因此把這 T-SQL的語法留檔。
 
- [1. 前制安裝指令](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#1-%E5%85%89%E7%BA%96%E7%B7%9A%E8%A6%81%E6%80%8E%E9%81%B8)
+ [1. 前制安裝指令](https://github.com/goelin66/Nospeek/blob/master/%5BSQL%5DHex2Binary.md#1-%E5%89%8D%E5%88%B6%E5%AE%89%E8%A3%9D%E6%8C%87%E4%BB%A4)
  
- [2. 測試階段](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#1-%E5%85%89%E7%BA%96%E7%B7%9A%E8%A6%81%E6%80%8E%E9%81%B8)
+ [2. 測試階段](https://github.com/goelin66/Nospeek/blob/master/%5BSQL%5DHex2Binary.md#2-%E6%B8%AC%E8%A9%A6%E9%9A%8E%E6%AE%B5)
 
 # 1. 前制安裝指令
-[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#fiber)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BSQL%5DHex2Binary.md#hextobinary)
 ```sql
 USE MyDB
 GO
@@ -48,10 +48,10 @@ BEGIN
 END
 
 ```
-[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#fiber)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BSQL%5DHex2Binary.md#hextobinary)
 
 # 2. 測試階段
-[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#fiber)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BSQL%5DHex2Binary.md#hextobinary)
 確認執行完成後
 
  可以在 MyDB
@@ -75,4 +75,4 @@ SET @HEX = 'FA'
 SELECT dbo.HexToBinary(@HEX) AS 'Binary'
 
 ```
-[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLearning%5DFiber.md#fiber)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BSQL%5DHex2Binary.md#hextobinary)
