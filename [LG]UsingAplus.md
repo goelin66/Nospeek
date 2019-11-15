@@ -116,8 +116,10 @@ catch {
 ```tcl
 # # almsum.scr
 catch {
+   #宣告變數讓警報資料可以塞入
    set camera00 "%TLV(%TALMSUM4 0 [GETVAL %AALMSUMP])"
    
+   #確認有警報在把
    if {[GETVAL %AALMSUMS(0)]>0} then {
       SETVAL CAM00=[GETVAL [GETVAL $camera00].extva3]
    } else {
@@ -150,5 +152,7 @@ catch {
 發現可以透過 *.ALMTM來處理...
 
 但這是一條坎坷的路阿, 不知道這家廠商可以配合到怎麼樣的程度...
+
+因擔心自己忘了, 留下一些足跡讓日後有機可循...
 
 [回首頁](https://github.com/goelin66/Nospeek/new/master#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
