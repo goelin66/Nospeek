@@ -4,18 +4,18 @@
 
 測試內容 :
 
-[1. 前置作業準備](https://github.com/goelin66/Nospeek/new/master#1-%E5%89%8D%E7%BD%AE%E4%BD%9C%E6%A5%AD%E6%BA%96%E5%82%99)
+[1. 前置作業準備](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DUsingAplus.md#1-%E5%89%8D%E7%BD%AE%E4%BD%9C%E6%A5%AD%E6%BA%96%E5%82%99)
 
-[2. 架構](https://github.com/goelin66/Nospeek/new/master#2-%E6%9E%B6%E6%A7%8B)
+[2. 架構](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DUsingAplus.md#2-%E6%9E%B6%E6%A7%8B)
 
-[3. 觸發的路徑](https://github.com/goelin66/Nospeek/new/master#3-%E8%A7%B8%E7%99%BC%E7%9A%84%E8%B7%AF%E5%BE%91)
+[3. 觸發的路徑](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DUsingAplus.md#3-%E8%A7%B8%E7%99%BC%E7%9A%84%E8%B7%AF%E5%BE%91)
 
-[4. 後續探討](https://github.com/goelin66/Nospeek/new/master#4-%E5%BE%8C%E7%BA%8C%E6%8E%A2%E8%A8%8E)
+[4. 後續探討](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DUsingAplus.md#4-%E5%BE%8C%E7%BA%8C%E6%8E%A2%E8%A8%8E)
 
 
 # 1. 前置作業準備
 
-[回首頁](https://github.com/goelin66/Nospeek/new/master#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DUsingAplus.md#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
 
 -  A. 請搭配 WebAccess8.4.2以上的版本比較安全
 
@@ -42,11 +42,11 @@
 ![image of Almsum](https://github.com/goelin66/Nospeek/blob/master/pic/UsingAplus_Almsum_201911151622.jpg)
 
 
-[回首頁](https://github.com/goelin66/Nospeek/new/master#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DUsingAplus.md#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
 
 # 2. 架構
 
-[回首頁](https://github.com/goelin66/Nospeek/new/master#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DUsingAplus.md#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
 
 BA可以直接在本地點回放影像, 
 
@@ -56,11 +56,11 @@ BA可以直接在本地點回放影像,
 
 其他細項都需要再 BA-PC做調整...
 
-[回首頁](https://github.com/goelin66/Nospeek/new/master#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DUsingAplus.md#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
 
 # 3. 觸發的路徑
 
-[回首頁](https://github.com/goelin66/Nospeek/new/master#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DUsingAplus.md#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
 
 
 ![image of silly structure2](https://github.com/goelin66/Nospeek/blob/master/pic/UsingAplus_SillyStructure2_201911151639.jpg)
@@ -131,11 +131,11 @@ catch {
 當這些東西都完成後即可以彈跳 Live視窗了。
 
 
-[回首頁](https://github.com/goelin66/Nospeek/new/master#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DUsingAplus.md#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
 
 # 4. 後續探討
 
-[回首頁](https://github.com/goelin66/Nospeek/new/master#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DUsingAplus.md#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
 
 這些功能使用上都是依靠許多人給的建議才刻出來的版型,
 
@@ -155,4 +155,4 @@ catch {
 
 因擔心自己忘了, 留下一些足跡讓日後有機可循...
 
-[回首頁](https://github.com/goelin66/Nospeek/new/master#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DUsingAplus.md#aplus%E6%95%B4%E5%90%88%E6%B8%AC%E8%A9%A6%E7%B4%80%E9%8C%84)
