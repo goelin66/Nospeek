@@ -13,6 +13,7 @@
 # 1. 前制安裝指令
 [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BSQL%5DHex2Binary.md#hextobinary)
 ```sql
+/*--------------資料庫請自行調整對應位址--------------*/
 USE MyDB
 GO
 
@@ -74,7 +75,7 @@ GO
 
 /*--------------測試請將數值寫value內轉換--------------*/
 DECLARE @HEX varchar(10)
---修輸入欲轉換的 HEX數值於 ' ' 內
+--輸入欲轉換的 HEX數值於 ' ' 內
 SET @HEX = 'FA'
 
 SELECT dbo.HexToBinary(@HEX) AS 'Binary'
