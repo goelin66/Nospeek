@@ -38,6 +38,14 @@
 
 ### 0. 下載
 
+在waPlus下載的地方會看分別兩樣東西
+
+client & waPlus
+
+![0. 下載](https://github.com/goelin66/Nospeek/blob/master/pic/waPlus_%E4%B8%8B%E8%BC%89%202020-02-06%20120356.jpg)
+
+這兩樣東西
+
 [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
 
