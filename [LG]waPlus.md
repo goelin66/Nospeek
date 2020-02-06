@@ -6,17 +6,17 @@
 
 ### [0. 下載](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#0-%E4%B8%8B%E8%BC%89-1)
 
-### [1. 核心基本設定](https://github.com/goelin66/Nospeek/blob/master#1-%E6%A0%B8%E5%BF%83%E5%9F%BA%E6%9C%AC%E8%A8%AD%E5%AE%9A-1)
+### [1. 核心基本設定](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#1-%E6%A0%B8%E5%BF%83%E5%9F%BA%E6%9C%AC%E8%A8%AD%E5%AE%9A-1)
 
--  [1-1. 設定路徑](https://github.com/goelin66/Nospeek/blob/master#1-1-%E8%A8%AD%E5%AE%9A%E8%B7%AF%E5%BE%91)
+-  [1-1. 設定路徑](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#1-1-%E8%A8%AD%E5%AE%9A%E8%B7%AF%E5%BE%91)
 
--  [1-2. 啟用檢測](https://github.com/goelin66/Nospeek/blob/master#1-2-%E5%95%9F%E7%94%A8%E6%AA%A2%E6%B8%AC)
+-  [1-2. 啟用檢測](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#1-2-%E5%95%9F%E7%94%A8%E6%AA%A2%E6%B8%AC)
 
--  [1-3. 其他設定](https://github.com/goelin66/Nospeek/blob/master#1-3-%E5%85%B6%E4%BB%96%E8%A8%AD%E5%AE%9A)
+-  [1-3. 其他設定](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#1-3-%E5%85%B6%E4%BB%96%E8%A8%AD%E5%AE%9A)
 
-### [2. 網頁操作](https://github.com/goelin66/Nospeek/blob/master#2-%E7%B6%B2%E9%A0%81%E6%93%8D%E4%BD%9C-1)
+### [2. 網頁操作](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#2-%E7%B6%B2%E9%A0%81%E6%93%8D%E4%BD%9C-1)
 
--  [2-1. 排程管理系統](https://github.com/goelin66/Nospeek/blob/master#2-1-%E6%8E%92%E7%A8%8B%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1)
+-  [2-1. 排程管理系統](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#2-1. 排程管理系統)
 
     -  [2-1-1. 排程表格介紹](https://github.com/goelin66/Nospeek/blob/master#2-1-1-%E6%8E%92%E7%A8%8B%E8%A1%A8%E6%A0%BC%E4%BB%8B%E7%B4%B9)
 
