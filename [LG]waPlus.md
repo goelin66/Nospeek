@@ -4,7 +4,7 @@
 
 內容 :
 
-### [0. 下載](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#0-%E4%B8%8B%E8%BC%89-11)
+### [0. 下載](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#0-%E4%B8%8B%E8%BC%89-1)
 
 ### [1. 核心基本設定](https://github.com/goelin66/Nospeek/blob/master#1-%E6%A0%B8%E5%BF%83%E5%9F%BA%E6%9C%AC%E8%A8%AD%E5%AE%9A-1)
 
