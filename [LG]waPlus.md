@@ -38,61 +38,61 @@
 
 ### 0. 下載
 
-[回首頁](https://github.com/goelin66/Nospeek/blob/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
 
 ### 1. 核心基本設定
 
-[回首頁](https://github.com/goelin66/Nospeek/blob/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
 -  #### 1-1. 設定路徑
 
--  [回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
+-  [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
 -  #### 1-2. 啟用檢測
 
--  [回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
+-  [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
 -  #### 1-3. 其他設定
 
--  [回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
+-  [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
 ### 2. 網頁操作
 
-[回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
+[回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
 -  #### 2-1. 排程管理系統
 
-- [回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
+- [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
     -  #### 2-1-1. 排程表格介紹
     
-    - [回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)    
+    - [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
     -  #### 2-1-2. 執行狀況
     
-    - [回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)    
+    - [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
     -  #### 2-1-3. 排程列表
     
-    - [回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)    
+    - [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
     -  #### 2-1-4. Scripts
     
-    - [回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)    
+    - [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
 -  #### 2-2. GEARS
 
-- [回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
+- [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
     -  #### 2-2-1. GEARS使用方式
     
-    - [回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
+    - [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
     
 ### 3. 補充介紹
 
-- [回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
+- [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
 
     -  #### 3-1. 補充常駐程式nssm
 
-    - [回首頁](https://github.com/goelin66/Nospeek/new/master#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
+    - [回首頁](https://github.com/goelin66/Nospeek/blob/master/%5BLG%5DwaPlus.md#waplus%E6%93%8D%E4%BD%9C%E6%95%99%E5%AD%B8)
